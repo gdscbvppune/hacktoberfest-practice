@@ -50,9 +50,6 @@ jobs:
       - name: Install dependencies
         run: npm install --frozen-lockfile
 
-      - name: Formatting
-        run: npm run format:check
-
   build:
     runs-on: ubuntu-latest
     steps:
