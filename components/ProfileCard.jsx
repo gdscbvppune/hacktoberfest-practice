@@ -1,10 +1,5 @@
 import React from "react";
-import {
-  FaDev,
-  FaGithub,
-  FaTwitter,
-  FaLinkedin,
-} from "react-icons/fa";
+import { FaDev, FaGithub, FaTwitter, FaLinkedin } from "react-icons/fa";
 import SocialLink from "./SocialLink";
 import Image from "next/image";
 

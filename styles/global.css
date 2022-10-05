@@ -16,7 +16,12 @@ h6 {
 }
 
 .bg-theme {
-  background: linear-gradient(120deg, rgba(2,0,36,1) 0%, rgba(48,1,80,1) 35%, rgba(83,0,172,1) 100%);
+  background: linear-gradient(
+    120deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(48, 1, 80, 1) 35%,
+    rgba(83, 0, 172, 1) 100%
+  );
 }
 
 .hov-bg-theme:hover {
