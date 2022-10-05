@@ -8,6 +8,34 @@ We have other [repositories](https://github.com/orgs/gdscbvppune/repositories) w
 [![Netlify Status](https://api.netlify.com/api/v1/badges/090badba-a77f-4a4b-9d63-f5bc0b7d4c53/deploy-status)](https://app.netlify.com/sites/gdscbvphp/deploys)
 ---
 
+## Running the project
+
+1.  Fork the project.
+
+2.  Clone the repo:
+
+    ```
+    $ git clone https://github.com/YOUR_GITHUB_USERNAME/hacktoberfest-practice.git
+    ```
+
+3.  Navigate to the cloned directory:
+
+    ```bash
+    $ cd hacktoberfest-practice
+    ```
+
+4.  Install dependencies:
+
+    ```bash
+    $ npm install
+    ```
+
+5.  Run the project
+
+    ```bash
+    $ npm run dev
+    ```
+
 ## Hacktoberfest Practice Pull Requests
 
 Repository for you to raise a Pull Request to **practice** open-source! 🎉
