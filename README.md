@@ -69,6 +69,13 @@ All the profile data is stored in [`content/contributors.json`](./content/contri
   },
   ```
   > Make sure to fill the values in the correct way or your profile link won`t work.
+  
+  > GitHub:  (**profilename**) only (https://github.com/profilename)
+  
+  > Twitter:  (**profilename**) only (https://twitter.com/profilename)
+  
+  > LinkedIn:  (**profilename**) only (https://www.linkedin.com/in/profilename)
+
 - After editing the [`contributors.json`](./content/contributors.json) file, add a commit message and click on the green button saying "Commit Changes". Make sure you have selected the branch you have created.
 
 4. Raise a Pull Request:
