@@ -44,7 +44,7 @@ All the profile data is stored in [`content/contributors.json`](./content/contri
 
 ### Option 1. Complete this process in Github (in your browser)
 
-1. Fork the project:
+1. Fork the project.
 
 - Click the gray `Fork` button in the top right of this page. This creates _your_ copy of the project and saves it as a new repository in your github account
 
@@ -69,6 +69,8 @@ All the profile data is stored in [`content/contributors.json`](./content/contri
   },
   ```
   > Make sure to fill the values in the correct way or your profile link won`t work.
+
+  > **Note:** Remove the empty key-value pair i.e the social handle and the link which you haven't entered.
   
   > GitHub:  (**profilename**) only (https://github.com/profilename)
   
@@ -81,7 +83,7 @@ All the profile data is stored in [`content/contributors.json`](./content/contri
 4. Raise a Pull Request:
 
 - Click `Pull Requests` (which is the third option at the top of this page after the options `Code` and `Issues`).
-- Click the green `New Pull Request` button. This will prep the new pull request for you by autofilling the `base repository: base` with 'gdscbvppune: main' AND autofilling your `head repository: compare` with `your repository: main`
+- Click the green `New Pull Request` button. This will prep the new pull request for you by autofilling the `base repository: base` with `gdscbvppune: main` AND autofilling your `head repository: compare` with `your repository: main`
 - Click on your head repository's `compare` dropdown, and switch branches from your 'main' branch to `<new branch name>`.
 - Finally, click the green `Create Pull Request` button. Great job! You did it!
 
