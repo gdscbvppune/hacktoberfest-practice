@@ -3,6 +3,9 @@
 
 We have other [repositories](https://github.com/orgs/gdscbvppune/repositories) with the label `hacktoberfest` in the organisation you can contribute to.
 
+## The site is live [here](https://gdscbvphp.netlify.app/).
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/090badba-a77f-4a4b-9d63-f5bc0b7d4c53/deploy-status)](https://app.netlify.com/sites/gdscbvphp/deploys)
 ---
 
 ## Hacktoberfest Practice Pull Requests
