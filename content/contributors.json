@@ -33,11 +33,19 @@
     },
     {
       "name": "Tanmay Dikshit",
-      "blogUrl": "https://medium.com/@tanmaydikshit12",
+      "avatarUrl": "https://avatars.githubusercontent.com/tanmaytarush",
       "github": "tanmaytarush",
       "twitter": "TanmayDikshit1",
       "linkedin": "https://www.linkedin.com/in/tanmaydikshit/",
-      "kaggle": "Tanmay Dikshit"
+      "blogUrl": "https://medium.com/@tanmaydikshit12"
+    },
+    {
+      "name": "Aryaman Godara",
+      "avatarUrl": "https://avatars.githubusercontent.com/aryamangodara",
+      "github": "aryamangodara",
+      "twitter": "aryamangodara",
+      "linkedin": "aryamangodara",
+      "blogUrl": "https://medium.com/@aryamangodara"
     }
   ]
 }
