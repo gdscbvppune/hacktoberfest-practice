@@ -32,6 +32,14 @@
       "linkedin": "yagna-raval"
     },
     {
+      "name": "Tanmay Dikshit",
+      "avatarUrl": "https://avatars.githubusercontent.com/tanmaytarush",
+      "github": "tanmaytarush",
+      "twitter": "TanmayDikshit1",
+      "linkedin": "https://www.linkedin.com/in/tanmaydikshit/",
+      "blogUrl": "https://medium.com/@tanmaydikshit12"
+    },
+    {
       "name": "Aryaman Godara",
       "avatarUrl": "https://avatars.githubusercontent.com/aryamangodara",
       "github": "aryamangodara",
@@ -44,6 +52,18 @@
       "github": "Shashank01-26",
       "twitter": "Shashank01_26",
       "linkedin": "Shashank Kumar Srivastava"
-    }    
+    },
+      "name": "Praneeth Shetty",
+      "avatarUrl": "https://avatars.githubusercontent.com/gaimtron-10",
+      "github": "ganimtron-10",
+      "twitter": "ganimtron10",
+      "linkedin": "ganimtron10"
+    },
+    {
+      "name": "Rishabh Anand",
+      "avatarUrl": "https://avatars.githubusercontent.com/rishabhanand181",
+      "github": "rishabhanand181",
+      "linkedin": "rishabhanand181"
+    }
   ]
 }
